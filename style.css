@@ -1,6 +1,16 @@
+body, p{
+    font-family: "Roboto Condensed", serif;
+    font-weight: 300;
+}
 .center{
     text-align: center;
 }
 .blue{
-    color: dodgerblue;
+    color: #0691d7;
+}
+.yellow{
+    color: #ffa400;
+}
+.italic{
+    font-style: italic;
 }
