@@ -1,7 +1,9 @@
 body, p{
     font-family: "Roboto Condensed", serif;
     font-weight: 300;
+    line-height: 1.57;
 }
+
 .center{
     text-align: center;
 }
@@ -11,6 +13,26 @@ body, p{
 .yellow{
     color: #ffa400;
 }
+.big-font{
+    font-size: 36px;
+}
 .italic{
     font-style: italic;
+}
+.recept{
+    margin: auto;
+    width: 60%;
+    font-size: 18px;
+}
+.main-title{
+    height: 512px;
+
+    background-color: #0691d7;
+    background-image: url(./assets/icons/big\ cake.jpg);
+    background-position: center;
+    background-size: cover;
+    
+    color: white;  
+    font-size: 48px;
+    letter-spacing: 5px;
 }
